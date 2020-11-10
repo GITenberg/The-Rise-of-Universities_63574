@@ -1,0 +1,27 @@
+_repo: The-Rise-of-Universities_63574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haskins, Charles Homer
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '52505'
+    url: http://www.gutenberg.org/2009/agents/52505
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Homer_Haskins
+description: ''
+gutenberg_issued: '2020-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63574'
+  lccn: '23017816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Universities and colleges -- History'
+- !lcc 'LA'
+- !lcsh 'Education, Medieval'
+- GITenberg
+title: The Rise of Universities
+url: http://www.gutenberg.org/ebooks/63574
